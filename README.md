@@ -1,8 +1,7 @@
 # Chess Opening Trainer (in-progress)
 
-Project inspired by a fellow pilot in my squadron who has an absolutely incredible repertoire of chess opening theory. I decided to look for a chess opening trainer, but only found ones that *show you* openings and provide analysis.
-
-Whereas I'm interested in a trainer that specifically *quizzes you* through selected chess openings move-by-move, so I decided to make one. </br> Example Use Case: You already know the ideas behind an opening, but want to refresh your memory on the first 25 optimal moves of an opening's main line via puzzle/quiz format practice rather than simply being shown.
+Project inspired by a fellow pilot in my squadron who has an absolutely incredible repertoire of chess openings with knowledge extending into the dozens of moves. I looked for a chess opening trainer and noticed that most *show* the user openings and provide analysis, whereas I'm interested in a trainer that specifically *quizzes you* through a selected chess opening move-by-move. </br> </br> 
+Example Use Case: You already know the ideas behind a given opening, but want to quickly refresh your memory on the first 25 optimal moves of its main line in a puzzle/quiz format of practice rather than being shown.
 
 </br>
 
