@@ -6,4 +6,4 @@ I'm interested in a trainer that quickly quizzes you through selected chess open
 
 </br>
 
-Thanks to @niklasf for the chess opening encyclopedia json.
+Thanks to [@niklasf](https://github.com/niklasf) for the [chess opening encyclopedia JSON](https://github.com/GeoffreyFClark/chess-opening-trainer/blob/main/chess_opening_encyclopedia.json).
