@@ -1,4 +1,4 @@
-import os  # Filepaths will be platform-independent (I like both macOS + Windows)
+import os
 import pygame
 import pygame.gfxdraw
 import chess
